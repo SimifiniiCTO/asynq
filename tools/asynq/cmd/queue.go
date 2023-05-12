@@ -10,9 +10,9 @@ import (
 	"os"
 
 	"github.com/MakeNowJust/heredoc/v2"
+	"github.com/SimifiniiCTO/asynq"
+	"github.com/SimifiniiCTO/asynq/internal/errors"
 	"github.com/fatih/color"
-	"github.com/hibiken/asynq"
-	"github.com/hibiken/asynq/internal/errors"
 	"github.com/spf13/cobra"
 )
 

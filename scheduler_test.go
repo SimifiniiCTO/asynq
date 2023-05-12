@@ -11,8 +11,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/hibiken/asynq/internal/base"
-	"github.com/hibiken/asynq/internal/testutil"
+	"github.com/SimifiniiCTO/asynq/internal/base"
+	"github.com/SimifiniiCTO/asynq/internal/testutil"
 )
 
 func TestSchedulerRegister(t *testing.T) {

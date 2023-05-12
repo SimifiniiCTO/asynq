@@ -16,11 +16,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hibiken/asynq/internal/base"
-	asynqcontext "github.com/hibiken/asynq/internal/context"
-	"github.com/hibiken/asynq/internal/errors"
-	"github.com/hibiken/asynq/internal/log"
-	"github.com/hibiken/asynq/internal/timeutil"
+	"github.com/SimifiniiCTO/asynq/internal/base"
+	asynqcontext "github.com/SimifiniiCTO/asynq/internal/context"
+	"github.com/SimifiniiCTO/asynq/internal/errors"
+	"github.com/SimifiniiCTO/asynq/internal/log"
+	"github.com/SimifiniiCTO/asynq/internal/timeutil"
 	"golang.org/x/time/rate"
 )
 
